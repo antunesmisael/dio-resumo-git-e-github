@@ -11,4 +11,5 @@ Repósitório para armazenar resumos sobre Git e GitHub do curso Versionamento d
 
 | Aula | Resumo |
 |------|--------|
-|Gravando Alterações no Repósitório Local | [Resumos]
+| Aula 1 | [Resumos]
+| Aula 2 | [Resumos]
